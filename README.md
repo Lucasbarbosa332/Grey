@@ -23,7 +23,4 @@ O jogo tem um sistema de HP totalmente funcional, com aumentos de HP em certos i
 
 Você precisa ter o Python 3 instalado em seu sistema  voce deve baiaxar os arquivos em seu computador junto ao pacote Dosc onde esta arquivos SASS do jogo para melhor resolução caso voce não baixe esse arquivo o jogo vira na sua versão original do desenvolvedor 
 
-# MELHORIAS FUTURAS
 
-
-# Outras versões criada por mim eu fiz todo moto grafico e codigo fonte 
